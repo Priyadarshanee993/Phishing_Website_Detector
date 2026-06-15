@@ -1,0 +1,40 @@
+/* General body styling */
+body {
+    background-color: #f7f7f7;
+    font-family: Arial, sans-serif;
+}
+
+/* Centered container for forms and results */
+.container {
+    max-width: 600px;
+    margin-top: 100px;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Heading styling */
+h1 {
+    color: #333333;
+    margin-bottom: 20px;
+}
+
+/* Text paragraph styling */
+p {
+    font-size: 18px;
+    color: #555555;
+}
+
+/* Button styling */
+.btn-custom {
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+    margin-top: 20px;
+}
+
+.btn-custom:hover {
+    background-color: #0056b3;
+}

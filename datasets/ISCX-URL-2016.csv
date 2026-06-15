@@ -1,0 +1,16 @@
+url,label
+http://www.example.com,0
+http://www.phishing-example.com,1
+http://www.safe-site.com,0
+http://www.phishing-attack.com,1
+http://www.another-safe-site.com,0
+http://www.fraudulent-site.com,1
+https://www.google.com,0
+https://github.com,0
+https://www.microsoft.com,0
+https://www.wikipedia.org,0
+https://amazon.in,0
+http://secure-login-update-account.com,1
+http://verify-bank-account-now.com,1
+http://paypal-security-check.com,1
+http://free-prize-click-here.com,1
